@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michal</h1>
 <h3 align="center">Junior DevOps / Python Engineer</h3>
 
+Currenly Junior DevOps Engineer with previous SysAdmin experience. Working knowledge and experience using Python/Bash. Right now working on CI/CD pipelines using AWS. Main side project is Python Image Processing bot using OpenCV
+
 - 🔭 I’m currently working on **CI/CD Pipelines using AWS**
 
 - 🌱 I’m currently learning **Kubernetes (CKAD), MLOps**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
